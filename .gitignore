@@ -1,32 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@NASAPsyche
-MissionToPsyche /
-2022_20b_vr_space_game
-Private
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-
-    Settings
-
-2022_20b_vr_space_game/PsycheMission/.gitignore
-@genea307
-genea307 Progress as of 10/20/22 at 11:13 am
-Latest commit ff30095 Oct 20, 2022
-History
-1 contributor
-72 lines (59 sloc) 1.25 KB
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
@@ -99,20 +70,3 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-2022_20b_vr_space_game/.gitignore at main · MissionToPsyche/2022_20b_vr_space_game
