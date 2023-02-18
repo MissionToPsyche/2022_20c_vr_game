@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
+  - Satellite Body
+  - Satellite Panel
+  - Satellite Hanger Bracket
+  - Satellite Front Hanger
   - 
   - 
   - 

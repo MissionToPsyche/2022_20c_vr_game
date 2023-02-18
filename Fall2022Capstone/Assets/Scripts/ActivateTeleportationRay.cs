@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.InputSystem;
 
+// For script to work, change input options for both "Select Action" and "Activate Action" to "_Hand (Interaction)/Activate"
+
 public class ActivateTeleportationRay : MonoBehaviour
 {
     public GameObject leftTeleportation;
