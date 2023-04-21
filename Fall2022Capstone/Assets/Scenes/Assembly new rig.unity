@@ -1486,7 +1486,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 236479469430339794, guid: 5b6568a2237ac4018aceffbdf68c4e5b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.0015665562
+      value: -0.008210681
       objectReference: {fileID: 0}
     - target: {fileID: 236479469852698116, guid: 5b6568a2237ac4018aceffbdf68c4e5b, type: 3}
       propertyPath: m_AnchorMax.x
@@ -8480,31 +8480,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -25.855446
+      value: -25.745
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.8989109
+      value: -0.8639521
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.6097679
+      value: 13.63
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6721526
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.21956998
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.6721526
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.21956998
+      value: -0.5
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8516,7 +8516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300829, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -36.181
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 4086042026775300830, guid: c9679869e7d226842bad970f69a14d4d, type: 3}
       propertyPath: m_Name
@@ -15538,10 +15538,10 @@ MonoBehaviour:
 
     Yousuf Khoori
 
-    Ahmad El
-    Rayes
+    Ahmad El Rayes
 
-    Wilfredo Gumaru'
+    Wilfredo
+    Gumaru'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -17002,7 +17002,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1787220641}
   m_LocalRotation: {x: -0, y: -0.009582072, z: -0, w: 0.9999541}
-  m_LocalPosition: {x: 0, y: 0, z: 19.556}
+  m_LocalPosition: {x: 0, y: 0, z: 29.78}
   m_LocalScale: {x: 0.0051261014, y: 0.0036601, z: 0.0010000004}
   m_Children:
   - {fileID: 190540277}
