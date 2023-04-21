@@ -1486,7 +1486,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 236479469430339794, guid: 5b6568a2237ac4018aceffbdf68c4e5b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.008210681
+      value: -0.009321519
       objectReference: {fileID: 0}
     - target: {fileID: 236479469852698116, guid: 5b6568a2237ac4018aceffbdf68c4e5b, type: 3}
       propertyPath: m_AnchorMax.x
@@ -3335,7 +3335,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 370450465}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 3.477}
+  m_LocalPosition: {x: 0, y: 0, z: 3.21}
   m_LocalScale: {x: 0.006943429, y: 0.004957696, z: 0.0013545251}
   m_Children:
   - {fileID: 647630848}
@@ -5160,6 +5160,18 @@ PrefabInstance:
     - target: {fileID: 5249901949372076034, guid: 0fe866f7cf56beb438d0ffd6052243f8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 5659550943658838968, guid: 0fe866f7cf56beb438d0ffd6052243f8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.9169724
+      objectReference: {fileID: 0}
+    - target: {fileID: 5659550943658838968, guid: 0fe866f7cf56beb438d0ffd6052243f8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 5659550943977757238, guid: 0fe866f7cf56beb438d0ffd6052243f8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 9.73
       objectReference: {fileID: 0}
     - target: {fileID: 5664074736059008346, guid: 0fe866f7cf56beb438d0ffd6052243f8, type: 3}
       propertyPath: m_StaticEditorFlags
