@@ -19,6 +19,8 @@ The game is inspired by the existing game from the NASA Psyche's website "Far Fl
 
 Original Far Flung! Github link: https://github.com/MissionToPsyche/2021_20G_Web-Based-Game_Far-Flung
 
+Original Far Flung! site link: https://psyche.asu.edu/get-involved/capstone-projects/capstone-projects-copper-class/web-based-game-far-flung/
+
 # To Play the Game:
 Before anything you will need:
 - A Quest headset
